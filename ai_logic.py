@@ -15,7 +15,7 @@ PROCESSED_FILES = set()
 RESET_TIMEOUT = 20  # Seconds to wait before auto-clearing the dashboard
 
 # --- 2. API KEY ---
-API_KEY = "AIzaSyDXrMCPjx79AK3dz7vKSjlZC0st3d9exw8"
+API_KEY = "YOUR-API-KEY-HERE"
 
 genai.configure(api_key=API_KEY)
 
